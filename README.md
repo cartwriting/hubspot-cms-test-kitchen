@@ -15,6 +15,10 @@
 * The `SRC` folder contains the theme files, which started with the HubSpot boilerplate.
 * This repository uses [HubSpot CMS Deploy Action](https://github.com/marketplace/actions/hubspot-cms-deploy) to deploy the `Main` branch to the Test Kitchen HubSpot portal.
 
+## About the Theme / Boilerplate
+
+* The project started with HubSpot's Theme Boilerplate. We can adapt and change from there. [Read up on the Boilerplate in its wiki](https://github.com/HubSpot/cms-theme-boilerplate/wiki)
+
 ## Style guide
 
 For details about the HubSpot CMS Boilerplate's recommended best practices and code formatting, please reference the Boilerplate project's [style guide](https://github.com/HubSpot/cms-theme-boilerplate/blob/master/STYLEGUIDE.md).
