@@ -1,3 +1,7 @@
+# Deploys Main to Production
+
+name: main
+
 on:
   push:
     branches:
